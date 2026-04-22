@@ -4,7 +4,7 @@ Estudiante de **1º de DAM** (Desarrollo de Aplicaciones Multiplataforma). Apasi
 
 ## 🌐 Mi Porfolio Web
 He diseñado una web personal para mostrar mis proyectos de forma más visual:
-👉 **[VER MI PORFOLIO AQUÍ](https://tu-usuario.github.io)**
+👉 **[VER MI PORFOLIO AQUÍ](https://jorgeoz.github.io)**
 
 ## 🚀 Proyecto Estrella: Proyecto Intermodular
 Actualmente trabajando en mi aplicación de fin de ciclo, centrada en la gestión de un gimnasio, permitiendo administrar usuarios, socios, actividades, horarios, ofertas y reservas de forma estructurada mediante una base de datos relacional.
