@@ -1,16 +1,20 @@
-## Hi there 👋
+# ¡Hola! Soy Jorge 👋
 
-<!--
-**JorgeOz/JorgeOz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **1º de DAM** (Desarrollo de Aplicaciones Multiplataforma). Apasionado por la resolución de problemas y el desarrollo de software.
 
-Here are some ideas to get you started:
+## 🌐 Mi Porfolio Web
+He diseñado una web personal para mostrar mis proyectos de forma más visual:
+👉 **[VER MI PORFOLIO AQUÍ](https://tu-usuario.github.io)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyecto Estrella: Proyecto Intermodular
+Actualmente trabajando en mi aplicación de fin de ciclo, centrada en la gestión de un gimnasio, permitiendo administrar usuarios, socios, actividades, horarios, ofertas y reservas de forma estructurada mediante una base de datos relacional.
+* **Tecnologías:** Java, MySQL, JDBC.
+* [Ver Repositorio del Proyecto](URL_DE_TU_REPO_PROYECTO)
+
+## 🛠️ Tecnologías y Herramientas
+* **Lenguajes:** Java, SQL, HTML5, CSS3, XML.
+* **Entornos:** IntelliJ IDEA, Visual Studio Code.
+* **Otros:** Git/GitHub, Metodologías Ágiles.
+
+---
+📫 Cómo contactarme: jorortvil@gmail.com
