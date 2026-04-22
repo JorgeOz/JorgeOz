@@ -1,30 +1,41 @@
-# ¡Hola! Soy Jorge 👋
+# Hola, soy Jorge Ortiz Vilaplana 👋
 
-Estudiante de **DAM** (Desarrollo de Aplicaciones Multiplataforma). Apasionado por la resolución de problemas, el desarrollo de software y la infraestructura IT.
+### Sistemas & Redes 🌐 + Desarrollo Multiplataforma 📱
+**Especializándome en Java y SQL para construir soluciones robustas desde la infraestructura hasta el código.**
 
-## 🌐 Mi Porfolio Web
-He diseñado una web personal para mostrar mis proyectos de forma más visual:
-👉 **[VER MI PORFOLIO AQUÍ](https://jorgeoz.github.io)**
+---
 
-## 🚀 Proyecto Estrella: GymFit Center
-Actualmente trabajando en **GymFit Center**, una solución enfocada en la gestión integral de un gimnasio. El proyecto abarca desde el diseño de la arquitectura de persistencia hasta la futura implementación de la lógica de negocio.
+### 🌍 Mi Porfolio Web
+He diseñado una web personal para mostrar mis proyectos de forma más visual: 
+👉 [**VISITAR MI PORFOLIO AQUÍ**](https://jorgeoz.github.io)
 
-* **Tecnologías:** MySQL, SQL, Modelado E/R, Java (próximamente).
-* 👉 **[Ver Repositorio del Proyecto](https://github.com/JorgeOz/GymFit-Center)**
+---
 
-## 🛠️ Tecnologías y Herramientas
+### 🚀 Proyecto Destacado: GymFit Center
+Una solución integral para la gestión de centros deportivos, enfocada en la arquitectura de datos y la integridad de la persistencia.
 
-### 💻 Desarrollo
+* **Tecnologías:** `MySQL`, `Modelado E/R`, `Java` (en desarrollo).
+* **Estado:** Implementando lógica de negocio y conectividad.
+* 👉 [Ver Repositorio del Proyecto](https://github.com/JorgeOz/GymFit-Center)
+
+---
+
+### 🛠️ Stack Tecnológico
+
+#### 💻 Desarrollo de Software
 * **Lenguajes:** Java, JavaScript, SQL, HTML5, CSS3, XML.
 * **Entornos:** IntelliJ IDEA, Visual Studio Code.
 
-### 🐧 Sistemas e Infraestructura
-* **Sistemas Operativos:** Linux (Administración básica y uso de terminal).
-* **Contenedores:** Docker (Despliegue de entornos y servicios).
-* **Virtualización:** Oracle VirtualBox (Gestión de máquinas virtuales y entornos aislados).
+#### 🐧 Sistemas e Infraestructura
+* **SO:** Linux (Administración de sistemas y terminal).
+* **DevOps:** Docker (Contenedores y despliegue de servicios).
+* **Virtualización:** Oracle VirtualBox (Entornos aislados y testing).
 
-### ⚙️ Otros
-* Git/GitHub, Metodologías Ágiles.
+#### ⚙️ Herramientas y Metodologías
+* Git, GitHub, Control de versiones, Metodologías Ágiles.
 
-## 📫 Cómo contactarme:
-📧 [jorortvil@gmail.com](mailto:jorortvil@gmail.com)
+---
+
+### 📫 Conectemos:
+* 📧 **Email:** [jorortvil@gmail.com](mailto:jorortvil@gmail.com)
+* 💼 **LinkedIn:** [Tu-Enlace-Aquí] (PENDIENTE)
