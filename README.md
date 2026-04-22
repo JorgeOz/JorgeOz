@@ -7,7 +7,7 @@ He diseñado una web personal para mostrar mis proyectos de forma más visual:
 👉 **[VER MI PORFOLIO AQUÍ](https://jorgeoz.github.io)**
 
 ## 🚀 Proyecto Estrella: Proyecto Intermodular
-Actualmente trabajando en mi aplicación de fin de ciclo, centrada en la gestión de un gimnasio, permitiendo administrar usuarios, socios, actividades, horarios, ofertas y reservas de forma estructurada mediante una base de datos relacional.
+Actualmente trabajando en mi aplicación de fin de ciclo, GymFit Center, una solución enfocada en la gestión integral de un gimnasio, que permite administrar usuarios, socios, actividades, horarios, ofertas y reservas a través de una base de datos relacional estructurada.
 * **Tecnologías:** Java, MySQL, JDBC.
 * [Ver Repositorio del Proyecto](URL_DE_TU_REPO_PROYECTO)
 
