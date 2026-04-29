@@ -16,6 +16,7 @@ Una solución integral para la gestión de centros deportivos, enfocada en la ar
 
 * **Tecnologías:** `MySQL`, `Modelado E/R`, `Java` (en desarrollo).
 * **Estado:** Implementando lógica de negocio y conectividad.
+* 👉 [**Ver Web en Vivo**](https://jorgeoz.github.io/GymFit-Web/)
 * 👉 [Ver Repositorio del Proyecto](https://github.com/JorgeOz/GymFit-Center)
 
 ---
