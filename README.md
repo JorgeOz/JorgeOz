@@ -39,4 +39,3 @@ Una solución integral para la gestión de centros deportivos, enfocada en la ar
 
 ### 📫 Conectemos:
 * 📧 **Email:** [jorortvil@gmail.com](mailto:jorortvil@gmail.com)
-* 💼 **LinkedIn:** [Tu-Enlace-Aquí] (PENDIENTE)
