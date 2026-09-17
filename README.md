@@ -5,9 +5,15 @@
 
 ### 👨‍💻 Sobre mí
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM) en Valencia**. Anteriormente cursé el Grado Medio de **Sistemas Microinformáticos y Redes (SMR)**, lo que me aporta una base sólida en infraestructura, sistemas y redes que complemento hoy con el desarrollo de software. 
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM) en Valencia**. Anteriormente cursé el Grado Medio de **Sistemas Microinformáticos y Redes (SMR)**, lo que me aporta una base sólida en infraestructura y sistemas que complemento hoy con el desarrollo de software. 
 
-Me apasiona la creación de robustas soluciones backend y frontend, el diseño de arquitecturas eficientes y entender todo el ciclo de vida de las aplicaciones.
+Me apasiona la creación de soluciones robustas, el diseño de arquitecturas eficientes y entender todo el ciclo de vida de las aplicaciones, desde la base de datos hasta el código.
+
+---
+
+### 🚀 Proyecto Destacado
+
+* **[GymFit Center](https://github.com/jorortvil/GymFit-Center)**: Sistema integral para la gestión de cadenas de gimnasios y centros deportivos.
 
 ---
 
@@ -30,16 +36,6 @@ Me apasiona la creación de robustas soluciones backend y frontend, el diseño d
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 🌱 Actualmente explorando...
-
-<p>
-  <img src="https://img.shields.io/badge/Avanzando_en-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Optimizando-.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
-  <img src="https://img.shields.io/badge/Practicando-Clean_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Clean Code" />
 </p>
 
 ---
