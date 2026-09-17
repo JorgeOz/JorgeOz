@@ -13,7 +13,7 @@ Me apasiona la creación de soluciones robustas, el diseño de arquitecturas efi
 
 ### 🚀 Proyecto Destacado
 
-* **[GymFit Center](https://github.com/jorortvil/GymFit-Center)**: Sistema integral para la gestión de cadenas de gimnasios y centros deportivos.
+* **[GymFit Center](https://github.com/JorgeOz/GymFit-Center)**: Sistema integral para la gestión de cadenas de gimnasios y centros deportivos.
 
 ---
 
