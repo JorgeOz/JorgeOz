@@ -5,7 +5,9 @@
 
 ### 👨‍💻 Sobre mí
 
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por la creación de software robusto, el diseño de arquitecturas eficientes y el desarrollo de soluciones tanto backend como frontend. Me motiva construir aplicaciones escalables y entender todo el ciclo de vida del desarrollo, desde la base de datos hasta el despliegue.
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM) en Valencia**. Anteriormente cursé el Grado Medio de **Sistemas Microinformáticos y Redes (SMR)**, lo que me aporta una base sólida en infraestructura, sistemas y redes que complemento hoy con el desarrollo de software. 
+
+Me apasiona la creación de robustas soluciones backend y frontend, el diseño de arquitecturas eficientes y entender todo el ciclo de vida de las aplicaciones.
 
 ---
 
@@ -32,10 +34,12 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado po
 
 ---
 
-### 📊 Estadísticas en GitHub
+### 🌱 Actualmente explorando...
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorortvil&theme=dark&hide_border=true" alt="GitHub Streak" />
+<p>
+  <img src="https://img.shields.io/badge/Avanzando_en-Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Optimizando-.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/Practicando-Clean_Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="Clean Code" />
 </p>
 
 ---
