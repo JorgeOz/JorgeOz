@@ -1,35 +1,44 @@
-# Hola, soy Jorge Ortiz Vilaplana 👋
-
-### Sistemas & Redes 🌐 + Desarrollo Multiplataforma 📱
-**Especializándome en Java y SQL para construir soluciones robustas desde la infraestructura hasta el código.**
+# Hola, soy Jorge Ortiz Vilaplana 👋 
+📍 Valencia, España
 
 ---
 
-### 🚀 Proyecto Destacado: GymFit Center
-Una solución integral para la gestión de centros deportivos, enfocada en la arquitectura de datos y la integridad de la persistencia.
+### 👨‍💻 Sobre mí
 
-* **Tecnologías:** `MySQL`, `Modelado E/R`, `Java` (en desarrollo).
-* **Estado:** Implementando lógica de negocio y conectividad.
-* 👉 [**Ver Web en Vivo**](https://jorgeoz.github.io/GymFit-Web/)
-* 👉 [**Ver Repositorio del Proyecto**](https://github.com/JorgeOz/GymFit-Center)
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** apasionado por la creación de software robusto, el diseño de arquitecturas eficientes y el desarrollo de soluciones tanto backend como frontend. Me motiva construir aplicaciones escalables y entender todo el ciclo de vida del desarrollo, desde la base de datos hasta el despliegue.
 
 ---
 
 ### 🛠️ Stack Tecnológico
 
-#### 💻 Desarrollo de Software
-* **Lenguajes:** Java, JavaScript, SQL, HTML5, CSS3, XML.
-* **Entornos:** IntelliJ IDEA, Visual Studio Code.
-
-#### 🐧 Sistemas e Infraestructura
-* **SO:** Linux (Administración de sistemas y terminal).
-* **DevOps:** Docker (Contenedores y despliegue de servicios).
-* **Virtualización:** Oracle VirtualBox (Entornos aislados y testing).
-
-#### ⚙️ Herramientas y Metodologías
-* Git, GitHub, Control de versiones, Metodologías Ágiles.
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
-### 📫 Conectemos:
-* 📧 **Email:** [jorortvil@gmail.com](mailto:jorortvil@gmail.com)
+### 📊 Estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jorortvil&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub de Jorge" />
+</p>
+
+---
+
+### 📫 Conectemos
+
+* 📧 **Email:** jorortvil@gmail.com
+* 💼 **LinkedIn:** [Tu enlace a LinkedIn]
