@@ -5,12 +5,6 @@
 
 ---
 
-### 🌍 Mi Porfolio Web
-He diseñado una web personal para mostrar mis proyectos de forma más visual: 
-👉 [**VISITAR MI PORFOLIO AQUÍ**](https://jorgeoz.github.io)
-
----
-
 ### 🚀 Proyecto Destacado: GymFit Center
 Una solución integral para la gestión de centros deportivos, enfocada en la arquitectura de datos y la integridad de la persistencia.
 
